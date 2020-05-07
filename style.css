@@ -35,7 +35,7 @@ html, body {
       left: 50%;
       transform: translateX(-50%);
       text-transform: uppercase;
-      font-size: 14px;
+      font-size: 15px;
       font-weight: 300;
       letter-spacing: 4px;
 }
@@ -44,12 +44,7 @@ html, body {
       text-decoration: none;
 }
 
-.cart {
-      position: absolute;
-      line-height: 60px;
-      right: 1.4em;
-      font-weight: 300;
-}
+
 
 /* MENU */
 
@@ -90,7 +85,7 @@ html, body {
 }
 
 .menu ul li a {
-      font-size: 12px;
+      font-size: 18px;
 }
 
 .menu ul li a:hover {
@@ -125,14 +120,14 @@ html, body {
       margin-top: 130px;
       margin-left: 40px;
       font-family: "Playfair Display";
-      font-size: 24px;
+      font-size: 30px;
       font-weight: 300;
 }
 
 a {
       color: grey !important;
       font-family: "Larsseit";
-      font-size: 10px;
+      font-size: 18px;
       text-transform: uppercase;
       letter-spacing: 2px;
 }
@@ -198,7 +193,7 @@ img {
 
 .section p {
       font-family: "Playfair Display";
-      font-size: 24px;
+      font-size: 30px;
       font-weight: 300;
 }
 
@@ -214,7 +209,7 @@ img {
 
 #prod-desc {
       margin-top: 16px;
-      font-size: 14px;
+      font-size: 20px;
       font-weight: 300;
 }
 
@@ -247,7 +242,7 @@ img {
       font-weight: 300;
       text-transform: uppercase;
       letter-spacing: 2px;
-      font-size: 12px;
+      font-size: 15px;
 }
 
 .prod-list #prod-desc {
@@ -273,7 +268,7 @@ img {
 footer p {
       text-align: center;
       font-family: "Larsseit" !important;
-      font-size: 14px !important;
+      font-size: 18px !important;
 
 }
 
@@ -472,12 +467,14 @@ input[type="radio"]:checked + label:before {
 
 /* CONTACT */
 
-form label, textarea {
+form label, textarea{
       font-family: "Larsseit";
-      font-size: 12px;
+      font-size: 15px;
       text-transform: uppercase;
       letter-spacing: 2px;
 }
+
+
 
 .form-control {
       box-shadow: none !important
